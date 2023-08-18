@@ -40,3 +40,6 @@ Regularly monitor the system's performance and gather feedback from stakeholders
 
 Share results and raise awareness:
 Communicate the results of your project to school authorities, students, and staff. Share insights on food waste patterns and suggest data-driven strategies to minimize waste at your school. Encourage all stakeholders to participate in waste reduction initiatives.
+
+### November 10th, 2021
+Data Collectioin and Model Prototyping: https://youtu.be/sexfprjIQhg
