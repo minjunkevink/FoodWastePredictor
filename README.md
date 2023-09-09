@@ -1,7 +1,7 @@
 # FoodWasteReduction_CV
 
 This project started in November 7th, 2021. Due to a planned change in workspace and in the hopes that I continue this project, I decided to store here for now.
-2023 Sep Update: As I continue to upload all my work here, I wanted note my idea down on upgrading some equipment. I haven't updated the repo until there, but one of the key causes of inaccurate predictionn was becuase of (1) poor data quality and (2) human error.
+2023 Sep Update: As I continue to upload all my work here, I wanted note my idea down on upgrading some equipment. I haven't updated the repo until there, but one of the key causes of inaccurate predictionn was becuase of (1) poor data quality and (2) human error. (1) Poor data quality resulted in me captruing videos at 720p 30fps. Since the camera was mounted high up from the conveyor belt, the cropped image was much less than 720 pixels. The model thus had a hard time calssifying even the basic foods. Potential Futuer Solution: Perhaprs I should try adding a super resolution layer before YOLO and fine tune the cluster to our school menu in a SRGAN + YOLOv3 + KNN layered sequence. (2) Human error, I would argue, was the biggest downside of this project. Students who would use more than two plates would stack them together when putting it on the conyer belt and since my camera was sitting perpendicularly from the belt, it had no depth snesor. I could've mounted it on another angle but I knew that would've distored the image. Solution: I am thinking of investing in a OAK-D pro depth sensor camera. With IR depth sensor and 4k, 30fps resolution, this will both solve the resolution issue AND the plate stacking issue. Only problem is the damn price! $350??? Really?! It's a pay-to-win 😭
 
 ## Journal
 
