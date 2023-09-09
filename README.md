@@ -2,7 +2,7 @@
 
 This project started in November 7th, 2021. Due to a planned change in workspace and in the hopes that I continue this project, I decided to store here for now.
 
-2023 Sep Update: As I continue to upload all my work here, I wanted note my idea down on upgrading some equipment. I haven't updated the repo until there, but one of the key causes of inaccurate predictionn was becuase of (1) poor data quality and (2) human error. 
+2023 Sep Update: As I continue to upload all my work here, I wanted note my idea down on upgrading some equipment and improve upon my project. I haven't updated the repo until there, but one of the key causes of inaccurate predictionn was becuase of (1) poor data quality and (2) human error. 
 
 (1) Captruing videos at 720p 30fps resulted in poor data quality . Since the camera was mounted high up from the conveyor belt, the cropped image was much less than 720 pixels. The model thus had a hard time calssifying even the basic foods. 
 
