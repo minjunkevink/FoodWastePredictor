@@ -1,6 +1,7 @@
 # FoodWasteReduction_CV
 
 This project started in November 7th, 2021. Due to a planned change in workspace and in the hopes that I continue this project, I decided to store here for now.
+2023 Sep Update: As I continue to upload all my work here, I wanted note my idea down on upgrading some equipment. I haven't updated the repo until there, but one of the key causes of inaccurate predictionn was becuase of (1) poor data quality and (2) human error.
 
 ## Journal
 
